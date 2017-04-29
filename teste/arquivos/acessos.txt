@@ -1,0 +1,3 @@
+acessos Wordpress
+user: computecnica
+pass: computecnica2017
